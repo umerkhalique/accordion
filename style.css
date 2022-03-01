@@ -49,3 +49,10 @@ i{
     margin-top: 10px;
     margin-right: 10px;
 }
+.question-text{
+    margin-left: 20px;
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    letter-spacing: 2px;
+    line-height: 20px;
+}

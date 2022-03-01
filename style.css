@@ -26,3 +26,26 @@
     border-radius: 8px;
     box-shadow: rgb(85, 91, 255) 0px 0px 0px 3px, rgb(31, 193, 27) 0px 0px 0px 6px, rgb(255, 217, 19) 0px 0px 0px 9px, rgb(255, 156, 85) 0px 0px 0px 12px, rgb(255, 85, 85) 0px 0px 0px 15px;
 }
+.container{
+    margin: 30px;
+    width: 440px;
+    border: 1px solid red;
+    
+}
+.h2{
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    letter-spacing: 2px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 20px;
+    font-weight: 900;
+}
+.question{
+    display: flex;
+    justify-content: space-between;
+}
+i{
+    margin-top: 10px;
+    margin-right: 10px;
+}

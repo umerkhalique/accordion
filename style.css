@@ -47,6 +47,7 @@
 i{
     margin-top: 10px;
     margin-right: 10px;
+    cursor: pointer;
 }
 .question-text{
     margin-left: 20px;
@@ -56,3 +57,4 @@ i{
     line-height: 20px;
     display: none;
 }
+
